@@ -1,0 +1,8 @@
+name: MCMMOPapi
+main: cc.ranmc.mcmmo.Main
+description: '桃花源定制24k纯钛合金超级无敌终终终终极版的mcmmo变量插件'
+website: https://www.ranmc.cc/
+author: Ranica
+version: Release 1.0
+softdepend: [mcMMO,Ranmc]
+api-version: "1.20"
